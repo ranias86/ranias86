@@ -3,8 +3,9 @@
 
 ## 🚀 About Me
 - 🌱 I'm Rania Saleh ..
-- 🛠 I graduated from Faulty of Computer and Information - Helwan University in 2009 ..
-- 🏢 Recently, I have returned to coding with great enthusiasm ..
+- 🛠 I'm graduated from Faulty of Computer and Information - Helwan University in 2009 ..
+- 👯 I have 7 years of experience in Application Support Engineering ..
+- 🏢 Recently, I have returned to coding with great enthusiasm 😄 ..
 - ⚡ Aspiring to become a ✨Full Stack Developer✨..
 
 
@@ -19,15 +20,19 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 ![C++](https://img.shields.io/badge/-cplusplus-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+In Progress:
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
+
+
 
 
 <!--
+![RESTAPI#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
 **ranias86/ranias86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
