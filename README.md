@@ -1,10 +1,11 @@
 
 ## Hi there 👋
+
 ## 🚀 About Me
 - 🌱 I'm Rania Saleh ..
-- 🏢 I graduated from Faulty of Computer and Information - Helwan University in 2009 ..
+- 🛠 I graduated from Faulty of Computer and Information - Helwan University in 2009 ..
 - 🏢 Recently, I have returned to coding with great enthusiasm ..
-- ⚡ Aspiring to become a Full Stack Developer..
+- ⚡ Aspiring to become a ✨Full Stack Developer✨..
 
 
 ## 📫 How to reach me: 
@@ -12,7 +13,7 @@
 <!--
 <a href="https://www.linkedin.com/in/raniasalehsaleh/" target="_blank"><img src="https://img.shields.io/badge/-Rania%20Saleh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 -->
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
