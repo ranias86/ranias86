@@ -6,7 +6,7 @@
 - 🛠 I'm graduated from Faulty of Computer and Information - Helwan University in 2009 ..
 - 👯 I have 7 years of experience in Application Support Engineering ..
 - 🏢 Recently, I have returned to coding with great enthusiasm 😄 ..
-- ⚡ Aspiring to become a ✨Full Stack Developer✨..
+- ⚡ Aspiring to become a ✨ .NET Full Stack Developer✨..
 
 
 ## 📫 How to reach me: 
